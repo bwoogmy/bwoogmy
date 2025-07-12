@@ -3,7 +3,6 @@
 
 **📍 Location:** Kyiv, Ukraine  
 **📧 Email:** bwg.bwp@gmail.com  
-**📱 Phone:** +380636858984  
 **🔗 LinkedIn:** [linkedin.com/in/vital-hwg](https://linkedin.com/in/vital-hwg/)  
 **💻 GitHub:** [github.com/bwoogmy](https://github.com/bwoogmy)  
 **📱 Telegram:** [@metioninEth](https://t.me/metioninEth)  
