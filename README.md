@@ -4,7 +4,7 @@
 
 ### DevOps Engineer | Blockchain Infrastructure Specialist
 
-📍 Kyiv, Ukraine | 📧 [bwg.bwp@gmail.com](mailto:bwg.bwp@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/vital-hwg) | 💬 [@metioninEth](https://t.me/@metioninEth)
+📍 Kyiv, Ukraine | 📧 [bwg.bwp@gmail.com](mailto:bwg.bwp@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/vital-hwg) | 💬 [metioninEth](https://t.me/metioninEth)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bwoogmy&color=blueviolet&style=flat-square)
 
@@ -153,7 +153,7 @@ Infrastructure management and CI/CD pipeline optimization
 ### 💡 "Automate everything, monitor everything, improve everything"
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vital-hwg)
-[![Telegram](https://img.shields.io/badge/Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@metioninEth)
+[![Telegram](https://img.shields.io/badge/Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/metioninEth)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bwg.bwp@gmail.com)
 
 </div>
